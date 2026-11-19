@@ -1,0 +1,53 @@
+{
+    "black_list_keys_enable": false,
+    "white_list_keys_enable": false,
+    "black_list_keys": [
+        "134197F895CED9AE",
+        "87F234F8D42254E9"
+    ],
+    "white_list_keys": [
+        "A950CD770E156C7D",
+        "3B46E55BAFC02B99",
+        "0DC8D830F0DE45F9",
+        "3FB15B04E415B280",
+        "2F6D672121E9C8B1",
+        "A9BC464B401CAA1D",
+        "134197F895CED9AE",
+        "3885B64F9EA0BEE3",
+        "971202980E156C7D",
+        "B517E800AC266F97",
+        "80DFC762CA62A123",
+        "F084ADE6CA926967",
+        "6BC226F02119F640",
+        "9ECBFE4ADA9ED8F8",
+        "1DF263774C8EA8EE",
+        "C8C6223089506AC2",
+        "333D1076CA0D14A5",
+        "A5FAB4EB31E82DEE"
+    ],
+    "black_list_design_keys_enable": false,
+    "white_list_design_keys_enable": false,
+    "free_function_enable": false,
+    "free_design_enable": false,
+    "black_list_design_keys": [],
+    "white_list_design_keys": [
+        "971202980E156C7D",
+        "8CE6F860841DD56E",
+        "72D9DB83779B3BD6",
+        "750036C9D4A9EA05",
+        "8F30D98E404A9C8D",
+        "953C839105D56AF0",
+        "7D1EFC3523042CF9",
+        "1CE6D70425DAF347",
+        "202D9B4D2B1A3DF2",
+        "D237CBA8FFA99707"
+    ],
+    "force_update": false,
+    "update_describe": {
+        "zh-cn": "修复导致宇宙爆炸的bug",
+        "en-us": "Fixed some bugs."
+    },
+    "version": "1.0.1.57",
+    "url": "https://gitee.com/flame_cyclone/fcassistant-binary/releases/download/1.0.1.57/FCAssistant.exe",
+    "url_x86": "https://gitee.com/flame_cyclone/fcassistant-binary/releases/download/1.0.1.57/FCAssistant_x86.exe"
+}

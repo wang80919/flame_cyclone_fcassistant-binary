@@ -1,0 +1,9 @@
+{
+    "notify_id": 0,
+    "restart_show": true,
+    "for_users_type": 16,
+    "notify_message": {
+        "zh-cn": "非常感谢您使用合卡小助手\r\n促销: 合卡功能不打折, 仅需300元即可拥有完全版功能\r\n促销: 自定义菜单不打折, 仅需200元即可拥有完全版功能\r\nQQ:1490868135 \r\n网盘: http://flamecyclone.ysepan.com/",
+        "en-us": "Thank you very much for using the Hop Card Assistant\r\nPromotion: 100% off the card function, only 300 yuan to have the full version of the function\r\nPromotion: 100% off the custom menu, only 200 yuan to have the full version of the function\r\nCustomer service QQ: 1490868135\r\nNetwork disk: http://flamecyclone.ysepan.com/"
+    }
+}
